@@ -1,1 +1,6 @@
-<svg width="24" height="32" viewBox="0 0 24 32" xmlns="http://www.w3.org/2000/svg"><title>file-unlock</title><path d="M22 8h2v6h-2v-4h-8V2H2v28h8v2H0V0h16v2h2v2h-2v4h4V6h2v2zm-4-4h2v2h-2V4zm-2 12h4v2h-4v-2zm-2 2h2v2h-2v-2zm8 0v6h2v8H12v-8h8v-6h2z" fill="#000" fill-rule="nonzero"/></svg>
+<svg width="24" height="32" viewBox="0 0 24 32" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        file-unlock
+    </title>
+    <path d="M22 8h2v6h-2v-4h-8V2H2v28h8v2H0V0h16v2h2v2h-2v4h4V6h2v2zm-4-4h2v2h-2V4zm-2 12h4v2h-4v-2zm-2 2h2v2h-2v-2zm8 0v6h2v8H12v-8h8v-6h2z"/>
+</svg>

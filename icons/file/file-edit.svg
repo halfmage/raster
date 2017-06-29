@@ -1,1 +1,6 @@
-<svg width="24" height="32" viewBox="0 0 24 32" xmlns="http://www.w3.org/2000/svg"><title>file-edit</title><path d="M22 8h2v8h-2v-6h-8V2H2v28h6v2H0V0h16v2h2v2h-2v4h4V6h2v2zm-4-4h2v2h-2V4zm-4 22v2h2v2h-2v2h-4v-4h2v-2h2zm0-2h2v2h-2v-2zm2-2h2v2h-2v-2zm2-2h2v2h-2v-2zm-2 6h2v2h-2v-2zm2-2h2v2h-2v-2zm2-2h2v2h-2v-2zm0-4h4v4h-2v-2h-2v-2zm2 12v-2h2v4h-4v-2h2z" fill="#000" fill-rule="nonzero"/></svg>
+<svg width="24" height="32" viewBox="0 0 24 32" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        file-edit
+    </title>
+    <path d="M22 8h2v8h-2v-6h-8V2H2v28h6v2H0V0h16v2h2v2h-2v4h4V6h2v2zm-4-4h2v2h-2V4zm-4 22v2h2v2h-2v2h-4v-4h2v-2h2zm0-2h2v2h-2v-2zm2-2h2v2h-2v-2zm2-2h2v2h-2v-2zm-2 6h2v2h-2v-2zm2-2h2v2h-2v-2zm2-2h2v2h-2v-2zm0-4h4v4h-2v-2h-2v-2zm2 12v-2h2v4h-4v-2h2z"/>
+</svg>

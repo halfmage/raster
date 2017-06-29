@@ -1,1 +1,6 @@
-<svg width="24" height="32" viewBox="0 0 24 32" xmlns="http://www.w3.org/2000/svg"><title>file-lock</title><path d="M16 18h4v2h-4v-2zm6 2v4h2v8H12v-8h2v-4h2v4h4v-4h2zm0-12h2v10h-2v-8h-8V2H2v28h8v2H0V0h16v2h2v2h-2v4h4V6h2v2zm-4-4h2v2h-2V4z" fill="#000" fill-rule="nonzero"/></svg>
+<svg width="24" height="32" viewBox="0 0 24 32" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        file-lock
+    </title>
+    <path d="M16 18h4v2h-4v-2zm6 2v4h2v8H12v-8h2v-4h2v4h4v-4h2zm0-12h2v10h-2v-8h-8V2H2v28h8v2H0V0h16v2h2v2h-2v4h4V6h2v2zm-4-4h2v2h-2V4z"/>
+</svg>

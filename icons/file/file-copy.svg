@@ -1,1 +1,6 @@
-<svg width="24" height="32" viewBox="0 0 24 32" xmlns="http://www.w3.org/2000/svg"><title>file-copy</title><path d="M16 14h-2v2h-4v-4h2v-2h-2V8H0v24h18V16h-2v-2zm0 16H2V10h6v8h8v12zm-4-18h2v2h-2v-2zm10-4h2v16h-4v-2h2V10h-8V2H8v4H6V0h10v2h2v2h-2v4h4V6h2v2zm-4-4h2v2h-2V4z" fill="#000" fill-rule="nonzero"/></svg>
+<svg width="24" height="32" viewBox="0 0 24 32" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        file-copy
+    </title>
+    <path d="M16 14h-2v2h-4v-4h2v-2h-2V8H0v24h18V16h-2v-2zm0 16H2V10h6v8h8v12zm-4-18h2v2h-2v-2zm10-4h2v16h-4v-2h2V10h-8V2H8v4H6V0h10v2h2v2h-2v4h4V6h2v2zm-4-4h2v2h-2V4z"/>
+</svg>

@@ -1,1 +1,6 @@
-<svg width="24" height="32" viewBox="0 0 24 32" xmlns="http://www.w3.org/2000/svg"><title>file-move</title><path d="M22 22v2h2v4h-2v2h-2v2h-2v-4h-6v-4h6v-4h2v2h2zm0-14h2v12h-2V10h-8V2H2v28h12v2H0V0h16v2h2v2h-2v4h4V6h2v2zm-4-4h2v2h-2V4z" fill="#000" fill-rule="nonzero"/></svg>
+<svg width="24" height="32" viewBox="0 0 24 32" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        file-move
+    </title>
+    <path d="M22 22v2h2v4h-2v2h-2v2h-2v-4h-6v-4h6v-4h2v2h2zm0-14h2v12h-2V10h-8V2H2v28h12v2H0V0h16v2h2v2h-2v4h4V6h2v2zm-4-4h2v2h-2V4z"/>
+</svg>

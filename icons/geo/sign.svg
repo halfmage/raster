@@ -1,0 +1,6 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        sign
+    </title>
+    <path d="M20 4V0h-8v4H0v18h12v10h8V22h12V4H20zm-2 26h-4v-6h4v6zM14 2h4v2h-4V2zm16 18H2V6h28v14z" fill-rule="nonzero" fill="#000"/>
+</svg>

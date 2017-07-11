@@ -1,0 +1,6 @@
+<svg width="24" height="32" viewBox="0 0 24 32" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        flag
+    </title>
+    <path d="M14 4h10v16H14v-2h8V6h-8V4zm0 2v12H4v14H0V0h4v2h10v2H6v12h6V6h2z" fill-rule="nonzero" fill="#000"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        umbrella
+    </title>
+    <path d="M22 2v2H10V2h4V0h4v2h4zm0 2h4v2h-4V4zM6 4h4v2H6V4zM4 6h2v2H4V6zM2 8h2v4H2V8zm24-2h2v2h-2V6zm2 2h2v4h-2V8zM2 12v6h2v2H0v-8h2zm28 6v-6h2v8h-4v-2h2zm-6-2h4v2h-4v-2zm-4 2h4v2h-4v-2zm-4-2h4v2h-2v10h4v4h-6v-2h-2V18h-2v-2h4zM4 16h4v2H4v-2zm4 2h4v2H8v-2z"/>
+</svg>

@@ -1,3 +1,5 @@
+![Raster Logo](https://raw.githubusercontent.com/halfmage/raster/master/assets/raster-logo.svg)
+
 [Raster](https://rastericons.com)
 ===
 

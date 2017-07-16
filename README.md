@@ -1,5 +1,3 @@
-![Raster Logo](https://raw.githubusercontent.com/halfmage/raster/master/assets/raster-logo.png)
-
 [Raster](https://rastericons.com)
 ===
 

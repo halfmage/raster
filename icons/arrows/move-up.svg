@@ -1,0 +1,6 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        move-up
+    </title>
+    <path d="M30 16H18V8h6V6h-2V4h-2V2h-2V0h-4v2h-2v2h-2v2H8v2h6v8H0v16h32V16h-2zm0 14H2V18h28v12z" fill-rule="nonzero" fill="#000"/>
+</svg>

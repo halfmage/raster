@@ -1,0 +1,6 @@
+<svg width="16" height="32" viewBox="0 0 16 32" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        arrow-up
+    </title>
+    <path d="M6 2H4v2H2v2H0v2h6v24h4V8h6V6h-2V4h-2V2h-2V0H6z" fill-rule="nonzero" fill="#000"/>
+</svg>

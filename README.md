@@ -3,7 +3,8 @@
 
 ### Modern open source pixel icons
 
-Raster is an pixelated iconset designed based on a 16x16 grid for retro vibes
+Raster is an pixelated iconset designed based on a 16x16 grid for retro vibes.
+Every week new icons will be added to the set.
 
 Change Log
 ---

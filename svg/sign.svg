@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>sign</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-136.000000, -266.000000)">
+            <g id="sign" transform="translate(136.000000, 266.000000)">
+                <rect id="bounds" fill-opacity="0" fill="#EEEEEE" x="0" y="0" width="16" height="16"></rect>
+                <path d="M10,2 L10,0 L6,0 L6,2 L0,2 L0,3 L0,10 L0,11 L6,11 L6,16 L10,16 L10,11 L15,11 L16,11 L16,10 L16,3 L16,2 L15,2 L10,2 Z M9,15 L7,15 L7,12 L9,12 L9,15 Z M7,1 L9,1 L9,2 L7,2 L7,1 Z M15,10 L1,10 L1,3 L15,3 L15,10 Z" id="icon" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

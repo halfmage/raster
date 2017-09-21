@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>calendar</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-136.000000, -442.000000)">
+            <g id="calendar" transform="translate(136.000000, 442.000000)">
+                <rect id="bounds" fill-opacity="0" fill="#EEEEEE" x="0" y="0" width="16" height="16"></rect>
+                <path d="M0,1 L3,1 L3,2 L0,2 L0,1 Z M3,0 L6,0 L6,1 L3,1 L3,0 Z M3,3 L6,3 L6,4 L3,4 L3,3 Z M3,1 L4,1 L4,3 L3,3 L3,1 Z M5,1 L6,1 L6,3 L5,3 L5,1 Z M10,0 L13,0 L13,1 L10,1 L10,0 Z M6,1 L10,1 L10,2 L6,2 L6,1 Z M13,1 L16,1 L16,2 L13,2 L13,1 Z M10,3 L13,3 L13,4 L10,4 L10,3 Z M10,1 L11,1 L11,3 L10,3 L10,1 Z M12,1 L13,1 L13,3 L12,3 L12,1 Z M15,2 L16,2 L16,16 L15,16 L15,2 Z M0,2 L1,2 L1,16 L0,16 L0,2 Z M1,15 L15,15 L15,16 L1,16 L1,15 Z M1,5 L15,5 L15,6 L1,6 L1,5 Z" id="icon" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

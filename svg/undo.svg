@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>undo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-232.000000, -154.000000)">
+            <g id="undo" transform="translate(232.000000, 154.000000)">
+                <rect id="bounds" fill-opacity="0" fill="#EEEEEE" x="0" y="0" width="16" height="16"></rect>
+                <polygon id="icon" fill="#000000" fill-rule="nonzero" points="16 4 15 4 15 3 4 3 4 0 3 0 3 1 2 1 2 2 1 2 1 3 0 3 0 5 1 5 1 6 2 6 2 7 3 7 3 8 4 8 4 5 14 5 14 14 0 14 0 16 15 16 15 15 16 15"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

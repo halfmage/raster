@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>chat</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-40.000000, -443.000000)">
+            <g id="chat" transform="translate(40.000000, 442.000000)">
+                <rect id="bounds" fill-opacity="0" fill="#EEEEEE" x="0" y="0" width="16" height="16"></rect>
+                <path d="M15,1 L16,1 L16,2 L16,13 L15,13 L5,13 L5,12 L15,12 L15,2 L1,2 L1,12 L3,12 L3,14 L4,14 L4,15 L3,15 L2,15 L2,13 L0,13 L0,12 L0,2 L0,1 L15,1 Z M4,14 L4,13 L5,13 L5,14 L4,14 Z" id="icon" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

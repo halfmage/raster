@@ -1,4 +1,4 @@
-[Raster](https://halfmage.github.io/raster/)
+[Raster v1.3](https://halfmage.github.io/raster/)
 ===
 
 ### Modern open source pixel icons

@@ -1,3 +1,5 @@
+# Raster is now pixelarticons! https://github.com/halfmage/pixelarticons
+
 [Raster](https://halfmage.github.io/raster/)
 ===
 
